@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rasking
 - 👀 I’m interested in Web3, Fintech, 
-- 🌱 I’m currently learning UX, PM,
+- 🌱 I’m currently in tech PM and UX, BA for Fintech and crypto,
 - 💞️ I’m looking to collaborate on wallets, trading and investing platforms, tokenization of physical objects
 - 📫 How to reach me Telegram 
 
